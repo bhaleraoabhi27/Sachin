@@ -23,6 +23,7 @@
    <a href="https://www.linux.org/" target="_blanfalse" />
     <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"  height="90" />
   </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
    <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"  height="90" />
   </a>
